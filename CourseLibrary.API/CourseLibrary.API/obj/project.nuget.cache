@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "L5c/RsM0tq7pbny6UBRgCzN2/CtxTyPCYVKa0W0bLoMcafMH5dchtWdHIWwxo3NKLHTz2zlOW8UMBgb4KEFY/g==",
+  "dgSpecHash": "HZ67nmO9yJJY+aJopstDiaAxPrwkmdT16+fAwg2HztDLPDgQCGULaoPGjn9I0iKNlFtefQnb5sHGxjdeRxjH1g==",
   "success": true,
   "projectFilePath": "D:\\Cursos\\Pluralsight\\Net Core 3 RestFul Apis\\asp-dot-net-core-3-restful-api-building\\Code\\CourseLibrary.API\\CourseLibrary.API\\CourseLibrary.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Alexis\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

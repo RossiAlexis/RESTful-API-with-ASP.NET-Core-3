@@ -50,5 +50,7 @@ D:\Cursos\Pluralsight\Net Core 3 RestFul Apis\asp-dot-net-core-3-restful-api-bui
 D:\Cursos\Pluralsight\Net Core 3 RestFul Apis\asp-dot-net-core-3-restful-api-building\Code\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Cursos\Pluralsight\Net Core 3 RestFul Apis\asp-dot-net-core-3-restful-api-building\Code\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\Cursos\Pluralsight\Net Core 3 RestFul Apis\asp-dot-net-core-3-restful-api-building\Code\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Cursos\Pluralsight\Net Core 3 RestFul Apis\asp-dot-net-core-3-restful-api-building\Code\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Cursos\Pluralsight\Net Core 3 RestFul Apis\asp-dot-net-core-3-restful-api-building\Code\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\Cursos\Pluralsight\Net Core 3 RestFul Apis\asp-dot-net-core-3-restful-api-building\Code\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.csproj.CoreCompileInputs.cache
 D:\Cursos\Pluralsight\Net Core 3 RestFul Apis\asp-dot-net-core-3-restful-api-building\Code\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.MvcApplicationPartsAssemblyInfo.cache
